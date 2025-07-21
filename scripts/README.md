@@ -13,6 +13,8 @@ Collection of scripts for Linux/Unix system administration.
 | `auto_update.sh`     | Automatically updates system packages        |
 | `log_error_check.sh` | Checks system logs for error messages        |
 | `clean_temp.sh`      | Cleans temporary files                       |
+| `setup_promot`       | Colors prompt and ls output.                 |
+
 
 ## How to use
 
