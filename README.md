@@ -21,3 +21,12 @@ Make scripts executable and run them. For example:
 ```bash
 chmod +x scripts/auto_backup.sh
 ./scripts/auto_backup.sh
+```
+
+## Running tests
+
+This project uses [Bats](https://bats-core.readthedocs.io/) for testing. After installing Bats, run the suite with:
+
+```bash
+bats tests
+```
